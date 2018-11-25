@@ -1,0 +1,4018 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.6817726, 43.3534739] },
+      "properties": {
+        "id": 1,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "BARRIO MURUETA ,S/N",
+        "stAddress2": "Abadiño",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.9371082, 37.3863394] },
+      "properties": {
+        "id": 2,
+        "stationName": "TESLA SPAIN SLU",
+        "totalDocks": 8,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AUTOVIA A-92 ,KM 98",
+        "stAddress2": "Aguadulce",
+        "city": "SEVILLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9214382999999999, 41.5917746]
+      },
+      "properties": {
+        "id": 3,
+        "stationName": "APOLOCUATRO, SL",
+        "totalDocks": 1,
+        "distributor": "Unión Fenosa",
+        "stAddress1": "CALLE PINETA ,4",
+        "stAddress2": "Aínsa-Sobrarbe",
+        "city": "HUESCA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.987665799999999, 38.8839969]
+      },
+      "properties": {
+        "id": 4,
+        "stationName": "SFERAONE SOLUTIONS Y SERVICES SL",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA DE EXTREMADURA ,44",
+        "stAddress2": "Albuera (La)",
+        "city": "BADAJOZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6552343, 40.5309812] },
+      "properties": {
+        "id": 5,
+        "stationName": "Acciona Eficiencia Energética, S.L.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE VALPORTILLA II ,8",
+        "stAddress2": "Alcobendas",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.626072, 40.5332996] },
+      "properties": {
+        "id": 6,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 28,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ANABEL SEGURA (DE) ,11",
+        "stAddress2": "Alcobendas",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.8430852, 40.39129610000001]
+      },
+      "properties": {
+        "id": 7,
+        "stationName": "JOHNSTON VENTURES SL",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE VEREDA DE LOS BARROS ,28",
+        "stAddress2": "Alcorcón",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [0.6111205, 40.7544471] },
+      "properties": {
+        "id": 8,
+        "stationName": "TESLA MOTORS NETHERLANDS BV",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "POLIGONO ESTACION DE MERCADERIAS ,S/N",
+        "stAddress2": "Aldea (L')",
+        "city": "TARRAGONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5493509999999999, 38.4059813]
+      },
+      "properties": {
+        "id": 9,
+        "stationName": "MARE NOSTRUM OIL MANAGEMENT S.L.U.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA AGOST-URBS ,9",
+        "stAddress2": "Alicante/Alacant",
+        "city": "ALICANTE/ALACANT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.4934513, 38.3430346] },
+      "properties": {
+        "id": 10,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA MAISONNAVE ,53",
+        "stAddress2": "Alicante/Alacant",
+        "city": "ALICANTE/ALACANT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.927377799999999, 38.9848295]
+      },
+      "properties": {
+        "id": 11,
+        "stationName": "SFERAONE SOLUTIONS Y SERVICES SL",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CARRETERA A-4 ,243",
+        "stAddress2": "Almuradiel",
+        "city": "CIUDAD REAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.9330021, 41.6449975] },
+      "properties": {
+        "id": 12,
+        "stationName": "TESLA MOTORS NETHERLANDS BV",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRETERA DE MADRID ,S/N",
+        "stAddress2": "Ariza",
+        "city": "ZARAGOZA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.472408, 43.0723816] },
+      "properties": {
+        "id": 13,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE MUSAKOLA AUZOA ,S/N",
+        "stAddress2": "Arrasate/Mondragón",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.504764, 43.062468] },
+      "properties": {
+        "id": 14,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE GOIRU KALEA ,1",
+        "stAddress2": "Arrasate/Mondragón",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.8433347, 43.41225619999999]
+      },
+      "properties": {
+        "id": 15,
+        "stationName": "ESTACION DE SERVICIO BOO G2 S.L",
+        "totalDocks": 1,
+        "distributor": "E.ON DISTRIBUCION, S.L.",
+        "stAddress1": "BARRIO BOO, CALLE BOO ,52",
+        "stAddress2": "Astillero (El)",
+        "city": "CANTABRIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.2926435, 43.1515749] },
+      "properties": {
+        "id": 16,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "BARRIO UROLA, POI. BASTERRETXE ,S/N",
+        "stAddress2": "Azkoitia",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.265907, 43.1839] },
+      "properties": {
+        "id": 17,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PLAZA AZPEITIKO PLAZA NAGUSIA ,AZOKA PLAZAREN",
+        "stAddress2": "Azpeitia",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.99088, 38.89411] },
+      "properties": {
+        "id": 18,
+        "stationName": "Sol Ardila S.L.",
+        "totalDocks": 1,
+        "distributor": "ENDESA",
+        "stAddress1": "POLIGONO NEVERO EL ,18",
+        "stAddress2": "Badajoz",
+        "city": "BADAJOZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1587814, 41.4306128] },
+      "properties": {
+        "id": 19,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA PLANA ,1",
+        "stAddress2": "Badalona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.7571102, 42.1178334] },
+      "properties": {
+        "id": 20,
+        "stationName": "AGRI-ENERGIA S.A.",
+        "totalDocks": 2,
+        "distributor": "AGRI ENERGIA ELECTRICA, S.A.",
+        "stAddress1": "PASSEIG MOSSEN LLUIS CONSTANS ,1B",
+        "stAddress2": "Banyoles",
+        "city": "GIRONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9986311, 43.2875606] },
+      "properties": {
+        "id": 21,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA DE LA RIBERA ,1",
+        "stAddress2": "Barakaldo",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9847427, 43.2837551] },
+      "properties": {
+        "id": 22,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 6,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE LA INMACULADA ,1",
+        "stAddress2": "Barakaldo",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9903696, 43.2877821] },
+      "properties": {
+        "id": 23,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE RONDA DE AZKUE ,1",
+        "stAddress2": "Barakaldo",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.0024062, 43.28955759999999]
+      },
+      "properties": {
+        "id": 24,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA LA RIBERA ,S/N",
+        "stAddress2": "Barakaldo",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.2014552, 41.4059563] },
+      "properties": {
+        "id": 25,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE LOPE DE VEGA ,125",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1812546, 41.419753] },
+      "properties": {
+        "id": 26,
+        "stationName": "REGESA APARCAMENTS I SERVEIS, S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA MARAGALL ,S/N",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1728565, 41.4303476] },
+      "properties": {
+        "id": 27,
+        "stationName": "REGESA APARCAMENTS I SERVEIS, S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE MIQUEL FERRA ,S/N",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1861145, 41.4180414] },
+      "properties": {
+        "id": 28,
+        "stationName": "REGESA APARCAMENTS I SERVEIS, S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA FERRAN REYES ,S/N",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1393266, 41.3921634] },
+      "properties": {
+        "id": 29,
+        "stationName": "REGESA APARCAMENTS I SERVEIS, S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA WAGNER ,S/N",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.2176587, 41.4088636] },
+      "properties": {
+        "id": 30,
+        "stationName": "HILTON OF SPAIN SL",
+        "totalDocks": 2,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASEO DEL TAULAT ,262",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1255183, 41.3855485] },
+      "properties": {
+        "id": 31,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE SABINO ARANA ,22",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1482104, 41.3954189] },
+      "properties": {
+        "id": 32,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE TRAVESSERA DE GRACIA ,43",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1464111, 41.3942992] },
+      "properties": {
+        "id": 33,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE TRAVESSERA DE GRACIA ,17",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.171025, 41.3744689] },
+      "properties": {
+        "id": 34,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA PARALLEL ,55",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1596443, 41.3970023] },
+      "properties": {
+        "id": 35,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASSEIG GRACIA ,112",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.166457, 41.3914569] },
+      "properties": {
+        "id": 36,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASSEIG GRACIA ,42",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1461725, 41.3938401] },
+      "properties": {
+        "id": 37,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA TRAVESSERA DE GRACIA ,12",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1752786, 41.3845786] },
+      "properties": {
+        "id": 38,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA CATEDRAL ,1",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.4913364, 38.3434568] },
+      "properties": {
+        "id": 39,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE MAISONNAVE ,174",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1428414, 41.3788462] },
+      "properties": {
+        "id": 40,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 2,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE MALLORCA ,12",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.17485, 41.45912] },
+      "properties": {
+        "id": 41,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 3,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA RASOS DE PEGUERA ,51",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1535123, 41.42252060000001]
+      },
+      "properties": {
+        "id": 42,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 3,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE HORTAL ,36",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1422174, 41.392567] },
+      "properties": {
+        "id": 43,
+        "stationName": "FACTOR ENERGIA SA",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA DIAGONAL ,612",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1880443, 41.3733905] },
+      "properties": {
+        "id": 44,
+        "stationName": "EMPARK APARCAMIENTOS Y SERVICIOS SA",
+        "totalDocks": 8,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASSEIG JOAN DE BORBÓ ,S/N",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1066366, 41.3824897] },
+      "properties": {
+        "id": 45,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA DIAGONAL ,687",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1602505, 41.3722818] },
+      "properties": {
+        "id": 46,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 11,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE FRANÇA XICA ,8",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1547531, 41.4095981] },
+      "properties": {
+        "id": 47,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 7,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "TRAVESSERA DALT ,51",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1787225, 41.4192089] },
+      "properties": {
+        "id": 48,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE TEODOR LLORENTE ,10",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1522288, 41.4216971] },
+      "properties": {
+        "id": 49,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 8,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE HORTAL ,168",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1516597, 41.4211158] },
+      "properties": {
+        "id": 50,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 3,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE HORTAL ,425",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.2145929, 41.4043679] },
+      "properties": {
+        "id": 51,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASSEIG GARCIA FARIA (DE) ,71",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1423799, 41.4256941] },
+      "properties": {
+        "id": 52,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 5,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "VÍA VALL D'HEBRON ,107",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1569115, 41.3720677] },
+      "properties": {
+        "id": 53,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE FRANÇA XICA ,35",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1842716, 41.4263302] },
+      "properties": {
+        "id": 54,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 5,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE CONCEPCION ARENAL ,156",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1233469, 41.39977400000001]
+      },
+      "properties": {
+        "id": 55,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE SALVADOR MUNDI ,17",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.18798, 41.4304204] },
+      "properties": {
+        "id": 56,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 7,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE MONGES ,2",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.197405400000001, 41.4042491]
+      },
+      "properties": {
+        "id": 57,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 5,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "RAMBLA POBLENOU ,130",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1149941, 41.3941218] },
+      "properties": {
+        "id": 58,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 8,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE MARQUES DE MULHACEN ,51",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1596635, 41.3744472] },
+      "properties": {
+        "id": 59,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE JAUME FABRA ,12",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1807051, 41.41574869999999]
+      },
+      "properties": {
+        "id": 60,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASSEIG MARAGALL ,54",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1601604, 41.4085013] },
+      "properties": {
+        "id": 61,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 5,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRER ESCORIAL (L') ,1",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1336414, 41.4069124] },
+      "properties": {
+        "id": 62,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA BONANOVA ,2",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.129171, 41.3924999] },
+      "properties": {
+        "id": 63,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 8,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASSEIG MANUEL GIRONA ,77",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1858645, 41.3990737] },
+      "properties": {
+        "id": 64,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 7,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE PADILLA ,159",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1940517, 41.3853788] },
+      "properties": {
+        "id": 65,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 7,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE DOCTOR AIGUADER ,88",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.2203478, 41.4119229] },
+      "properties": {
+        "id": 66,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA D'ERNEST LLUCH I MARTÍN ,S/N",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.143432, 41.4251815] },
+      "properties": {
+        "id": 67,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 2,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASSEIG VALL D'HEBRON ,138",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1425308, 41.4054566] },
+      "properties": {
+        "id": 68,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "RONDA GENERAL MITRE ,203",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1766851, 41.4274616] },
+      "properties": {
+        "id": 69,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE RAMON ALBO ,77",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.197179, 41.38666810000001]
+      },
+      "properties": {
+        "id": 70,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 9,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE MARINA ,13",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1978702, 41.3882673] },
+      "properties": {
+        "id": 71,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA LITORAL ,34",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.182329, 41.3945746] },
+      "properties": {
+        "id": 72,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 25,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE ALI BEI ,54",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.128592, 41.3898575] },
+      "properties": {
+        "id": 73,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 7,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE FLOS I CALCAT ,2",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1890423, 41.4044765] },
+      "properties": {
+        "id": 74,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE CIUTAT DE GRANADA ,173",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1682812, 41.4090493] },
+      "properties": {
+        "id": 75,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE MARINA ,345",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1523326, 41.4033032] },
+      "properties": {
+        "id": 76,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 2,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE GRAN DE GRACIA ,190",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1250012, 41.3982553] },
+      "properties": {
+        "id": 77,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 9,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE CARDENAL SENTMENAT ,37",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1222011, 41.3840605] },
+      "properties": {
+        "id": 78,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 5,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA JOAN XXIII ,23",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1343567, 41.4016426] },
+      "properties": {
+        "id": 79,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 5,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE JOSEP BALARI ,9",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.2054951, 41.4012723] },
+      "properties": {
+        "id": 80,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 5,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE BILBAO ,29",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1946255, 41.3833653] },
+      "properties": {
+        "id": 81,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 9,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASSEIG MARITIM BARCELONETA ,23",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1401443, 41.3590017] },
+      "properties": {
+        "id": 82,
+        "stationName": "SOCIEDAD ESPAÑOLA DE CONSTRUCCIONES ELECTRICAS SA",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASEO DE LA ZONA FRANCA ,142-144",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1502099, 41.3726832] },
+      "properties": {
+        "id": 83,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 32,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA REINA MARIA CRISTINA ,16",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1740515, 41.40988850000001]
+      },
+      "properties": {
+        "id": 84,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE CASTILLEJOS ,328",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1517168, 41.406638] },
+      "properties": {
+        "id": 85,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 7,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE TORRENT DE L'OLLA ,203",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1814867, 41.381096] },
+      "properties": {
+        "id": 86,
+        "stationName": "BARCELONA DE SERVEIS MUNICIPALS, SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PASSEIG COLOM ,1",
+        "stAddress2": "Barcelona",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.5427555, 43.4122455] },
+      "properties": {
+        "id": 87,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "E.ON DISTRIBUCION, S.L.",
+        "stAddress1": "AUTOVIA A8 ,182",
+        "stAddress2": "Bárcena de Cicero",
+        "city": "CANTABRIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.0228803, 39.8587991] },
+      "properties": {
+        "id": 88,
+        "stationName": "ELECTRYPARK MANAGEMENT SL",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE COMERCIO ,5, LOCAL 2",
+        "stAddress2": "Bargas",
+        "city": "TOLEDO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.424722, 36.191667] },
+      "properties": {
+        "id": 89,
+        "stationName": "PAGA MENOS LUZ SL",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "URBANIZACIÓN GUADACORTE ,CC BAHA CENTRO",
+        "stAddress2": "Barrios (Los)",
+        "city": "CÁDIZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.3800165, 39.4699347] },
+      "properties": {
+        "id": 90,
+        "stationName": "ATRIBAL, S.L.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE REQUENA ,9",
+        "stAddress2": "Benaguasil",
+        "city": "VALENCIA/VALÈNCIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.5756307, 43.1660303] },
+      "properties": {
+        "id": 91,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "POLIGONO EITUA INDUSTRIALDEA ,1",
+        "stAddress2": "Berriz",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9404007, 43.2602543] },
+      "properties": {
+        "id": 92,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PLAZA INDAUTXU ,2",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9052212, 43.2482036] },
+      "properties": {
+        "id": 93,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRER BILBAO-GALDAKAO ,20",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9349196, 43.2568765] },
+      "properties": {
+        "id": 94,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 3,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE PARKING ZABALBURU ,S/N",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9275398, 43.25842069999999]
+      },
+      "properties": {
+        "id": 95,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 6,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE PARKING ALHONDIGA ,S/N",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9661705, 43.2842432] },
+      "properties": {
+        "id": 96,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 3,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ELORRIETA ,S7N",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9323237, 43.2599094] },
+      "properties": {
+        "id": 97,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 8,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE PARKING INSTITUTO UNAMUNO ,S/N",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9398376, 43.2669788] },
+      "properties": {
+        "id": 98,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 3,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE LEHENDAKARI LEIZAOLA ,5",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9344223, 43.2622884] },
+      "properties": {
+        "id": 99,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 3,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ELCANO ,9",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9408914, 43.2639703] },
+      "properties": {
+        "id": 100,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE GRAN VIA DIEGO LOPEZ DE HARO ,63-65",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9311663, 43.2633576] },
+      "properties": {
+        "id": 101,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 6,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE PARKING ENSANCHE ,S/N",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9691693, 43.31539780000001]
+      },
+      "properties": {
+        "id": 102,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA LA AVANZADA - LEJONA ,S/N",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9216263, 43.2634292] },
+      "properties": {
+        "id": 103,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE QUINTANA ,LO",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9387448, 43.2680634] },
+      "properties": {
+        "id": 104,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PLAZA EUSKADI ,5",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.955587, 43.2801104] },
+      "properties": {
+        "id": 105,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CAMI MIRAMAR ,60",
+        "stAddress2": "Bilbao",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7038731, 42.311371] },
+      "properties": {
+        "id": 106,
+        "stationName": "TESLA MOTORS NETHERLANDS BV",
+        "totalDocks": 6,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AUTOVIA A-1 ,KM 235",
+        "stAddress2": "Burgos",
+        "city": "BURGOS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.19319, 43.32866] },
+      "properties": {
+        "id": 107,
+        "stationName": "AREA DE SERVICIO VIRGEN DE LA PEÑA S.L",
+        "totalDocks": 1,
+        "distributor": "E.ON DISTRIBUCION, S.L.",
+        "stAddress1": "BARRIO CABROJO S/N ,0",
+        "stAddress2": "Cabezón de la Sal",
+        "city": "CANTABRIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.9713434, 42.3062815] },
+      "properties": {
+        "id": 108,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 3,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE BEBRICIO ,71",
+        "stAddress2": "Calahorra",
+        "city": "RIOJA, LA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.9447224, 37.261421] },
+      "properties": {
+        "id": 109,
+        "stationName": "SFERAONE SOLUTIONS Y SERVICES SL",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "BARRIADA VIRGEN DE ESPAÑA ,S/N",
+        "stAddress2": "Calañas",
+        "city": "HUELVA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.763361, 41.857257] },
+      "properties": {
+        "id": 110,
+        "stationName": "TESLA SPAIN SLU",
+        "totalDocks": 10,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRETERA N-II ,701",
+        "stAddress2": "Caldes de Malavella",
+        "city": "GIRONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.5953444, 39.547397] },
+      "properties": {
+        "id": 111,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRETERA ANDRATX ,12-12,4",
+        "stAddress2": "Calvià",
+        "city": "BALEARS, ILLES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.0047768, 41.1219298] },
+      "properties": {
+        "id": 112,
+        "stationName": "GONE RENOVABLES SL",
+        "totalDocks": 1,
+        "distributor": "ASCOL ENERGIA",
+        "stAddress1": "CARRETERA CAMÍ VELL DE MONTBRIÓ DEL CAMP A CAMBRILS ,KM. 2,2",
+        "stAddress2": "Cambrils",
+        "city": "TARRAGONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.9097916, 39.7107586] },
+      "properties": {
+        "id": 113,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRETERA PALMA-ALCUDIA ,36,8",
+        "stAddress2": "Campanet",
+        "city": "BALEARS, ILLES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.576989999999999, 37.76587000000001]
+      },
+      "properties": {
+        "id": 114,
+        "stationName": "SFERAONE SOLUTIONS Y SERVICES SL",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA CUENCA MINERA ,2",
+        "stAddress2": "Campofrío",
+        "city": "HUELVA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.0027528, 39.4376889] },
+      "properties": {
+        "id": 115,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CAMINO DE CIUTAT VELL ,S/N",
+        "stAddress2": "Campos",
+        "city": "BALEARS, ILLES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.3308794, 39.4677205] },
+      "properties": {
+        "id": 116,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 3,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA MEDITERRANEO ,16",
+        "stAddress2": "Canet d'En Berenguer",
+        "city": "VALENCIA/VALÈNCIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.6819991, 43.5369246] },
+      "properties": {
+        "id": 117,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE PICOS DE EUROPA ,S/N",
+        "stAddress2": "Cangas de Onís",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.681006, 42.3465339] },
+      "properties": {
+        "id": 118,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA CARRETERA N-120 (LOGROÑO - VIGO), KM. 106 ,106",
+        "stAddress2": "Cardeñajimeno",
+        "city": "BURGOS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.9203717, 36.9364601] },
+      "properties": {
+        "id": 119,
+        "stationName": "VALPAWIN CARBURANTES SL",
+        "totalDocks": 2,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRETERA NACIONAL IV ,269.20",
+        "stAddress2": "Carolina (La)",
+        "city": "JAÉN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.2180398, 43.3823713] },
+      "properties": {
+        "id": 120,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA CONSTITUCION (LA) ,2",
+        "stAddress2": "Castro-Urdiales",
+        "city": "CANTABRIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7037902, 40.4167754] },
+      "properties": {
+        "id": 121,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 3,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AUTOPISTA A-2 MADRID-BARCEONA ,200",
+        "stAddress2": "Cetina",
+        "city": "ZARAGOZA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.679198299999999, 43.5187187]
+      },
+      "properties": {
+        "id": 122,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE LAS PALMERAS ,S/N",
+        "stAddress2": "Colunga",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.094633, 36.340698] },
+      "properties": {
+        "id": 123,
+        "stationName": "ENSE CONIL S.L.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRETERA NACIONAL 340 ,17",
+        "stAddress2": "Conil de la Frontera",
+        "city": "CÁDIZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.397331099999999, 43.3725038]
+      },
+      "properties": {
+        "id": 124,
+        "stationName": "GAS NATURAL SERVICIOS SDG, S.A.",
+        "totalDocks": 4,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE PLAZA ,4",
+        "stAddress2": "Coruña (A)",
+        "city": "CORUÑA, A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.4038081, 43.3843324] },
+      "properties": {
+        "id": 125,
+        "stationName": "GAS NATURAL SERVICIOS SDG, S.A.",
+        "totalDocks": 5,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CARRETERA CIRCUNVALACION ,1-15",
+        "stAddress2": "Coruña (A)",
+        "city": "CORUÑA, A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.406366, 43.3410014] },
+      "properties": {
+        "id": 126,
+        "stationName": "GAS NATURAL SERVICIOS SDG, S.A.",
+        "totalDocks": 4,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE ENRIQUE MARIÑAS ROMERO PERIODI ,9",
+        "stAddress2": "Coruña (A)",
+        "city": "CORUÑA, A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.398019399999999, 43.37583559999999]
+      },
+      "properties": {
+        "id": 127,
+        "stationName": "GAS NATURAL SERVICIOS SDG, S.A.",
+        "totalDocks": 3,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE TORRE ,60",
+        "stAddress2": "Coruña (A)",
+        "city": "CORUÑA, A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.408206, 43.34159469999999]
+      },
+      "properties": {
+        "id": 128,
+        "stationName": "GAS NATURAL SERVICIOS SDG, S.A.",
+        "totalDocks": 5,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "AVENIDA ALCALDE ALFONSO MOLINA ,1",
+        "stAddress2": "Coruña (A)",
+        "city": "CORUÑA, A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.421597499999999, 43.3533112]
+      },
+      "properties": {
+        "id": 129,
+        "stationName": "GAS NATURAL SERVICIOS SDG, S.A.",
+        "totalDocks": 5,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE GALILEO GALILEI ,1",
+        "stAddress2": "Coruña (A)",
+        "city": "CORUÑA, A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.403024799999999, 43.35831899999999]
+      },
+      "properties": {
+        "id": 130,
+        "stationName": "GAS NATURAL SERVICIOS SDG, S.A.",
+        "totalDocks": 4,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CUESTA PALLOZA ,5",
+        "stAddress2": "Coruña (A)",
+        "city": "CORUÑA, A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.4080072, 43.3674212] },
+      "properties": {
+        "id": 131,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "PLAZA PONTEVEDRA ,S/N",
+        "stAddress2": "Coruña (A)",
+        "city": "CORUÑA, A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.886839999999999, 43.53534]
+      },
+      "properties": {
+        "id": 132,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE EDIFICIO COLISEO ,1",
+        "stAddress2": "Corvera de Asturias",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.138361, 43.546333] },
+      "properties": {
+        "id": 133,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA CARRETERA NACIONAL 632, KM 7 ,7",
+        "stAddress2": "Cudillero",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.928477, 37.1813587] },
+      "properties": {
+        "id": 134,
+        "stationName": "TESLA MOTORS NETHERLANDS BV",
+        "totalDocks": 8,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AUTOVIA A-92 ,SALIDA 356",
+        "stAddress2": "Cúllar",
+        "city": "GRANADA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.911116, 43.302494] },
+      "properties": {
+        "id": 135,
+        "stationName": "ESTACION DE SERVICIO AMUNAGA SL",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE AEROPUERTO CARLOS HAYA ,4 PI BAJO PT 1",
+        "stAddress2": "Derio",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.884978, 43.3007292] },
+      "properties": {
+        "id": 136,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "BARRIO SAN CRISTOBAL AUZOA, 36, BAJO PR DERIO - BIZKAIA ,CTRA- BI 3715,",
+        "stAddress2": "Derio",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.973477, 43.305535] },
+      "properties": {
+        "id": 137,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ARCCO AMARA PLAZA IRÚN ,S/N",
+        "stAddress2": "Donostia-San Sebastián",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.9665082, 43.2929071] },
+      "properties": {
+        "id": 138,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 9,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE DOKTOR BEGIRISTAIN PASEALEKUA ,107",
+        "stAddress2": "Donostia-San Sebastián",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.9849032, 43.29189] },
+      "properties": {
+        "id": 139,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PASEO MIKELETEGI ,53",
+        "stAddress2": "Donostia-San Sebastián",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.8937812, 43.3077401] },
+      "properties": {
+        "id": 140,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ELIAS SALABERRIA ,1",
+        "stAddress2": "Donostia-San Sebastián",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.9716237, 43.3239796] },
+      "properties": {
+        "id": 141,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE BERMINGHAM ,23",
+        "stAddress2": "Donostia-San Sebastián",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.9843189, 43.3206116] },
+      "properties": {
+        "id": 142,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE HERNANI ,S/N",
+        "stAddress2": "Donostia-San Sebastián",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.0020945, 43.3009447] },
+      "properties": {
+        "id": 143,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ZARAUTZ ,136",
+        "stAddress2": "Donostia-San Sebastián",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.4797351, 43.18288159999999]
+      },
+      "properties": {
+        "id": 144,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA OTAOLA ,5",
+        "stAddress2": "Eibar",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.9821958, 43.3131555] },
+      "properties": {
+        "id": 145,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE AUTONOMIA ,8",
+        "stAddress2": "Elgoibar",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.417883, 43.2127263] },
+      "properties": {
+        "id": 146,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 3,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PLAZA UBITARTE ,S/N",
+        "stAddress2": "Elgoibar",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.3602493, 39.4829854] },
+      "properties": {
+        "id": 147,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE LA PUEBLA LARGA ,18",
+        "stAddress2": "Eliana (l')",
+        "city": "VALENCIA/VALÈNCIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.2378769, 41.5392776] },
+      "properties": {
+        "id": 148,
+        "stationName": "GAMMA SOLUTIONS SL",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRETERA A-2 ,KM 285",
+        "stAddress2": "Épila",
+        "city": "ZARAGOZA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.0330209, 42.6635437] },
+      "properties": {
+        "id": 149,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 3,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE CARLOS VII ,22",
+        "stAddress2": "Estella/Lizarra",
+        "city": "NAVARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.8236152, 41.9819016] },
+      "properties": {
+        "id": 150,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA CATALUNYA ,S/N",
+        "stAddress2": "Figueres",
+        "city": "GIRONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.8642417, 43.5601549] },
+      "properties": {
+        "id": 151,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "E.ON DISTRIBUCION, S.L.",
+        "stAddress1": "CALLE EL MARÓN, VALDEPARES ,S/N",
+        "stAddress2": "Franco (El)",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.632325, 36.529064] },
+      "properties": {
+        "id": 152,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AUTOVIA DEL MEDITERRANEO-PARQUE COMERCIAL MIRAMAR ,S/N",
+        "stAddress2": "Fuengirola",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.0053652, 40.5736388] },
+      "properties": {
+        "id": 153,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA M-51O ,1,8",
+        "stAddress2": "Galapagar",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9294443, 43.2645994] },
+      "properties": {
+        "id": 154,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE MARTXOAREN ZORTZIKO ,6, 5A, PLAZA 24",
+        "stAddress2": "Garay",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2827726, 41.68218330000001]
+      },
+      "properties": {
+        "id": 155,
+        "stationName": "ESTABANELL Y PAHISA MERCATOR, S.A.",
+        "totalDocks": 2,
+        "distributor": "ESTABANELL Y PAHISA ENERGIA, S.A.",
+        "stAddress1": "CARRETERA NOVA ,S/N",
+        "stAddress2": "Garriga (La)",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.69588, 40.29008] },
+      "properties": {
+        "id": 156,
+        "stationName": "TESLA SPAIN SLU",
+        "totalDocks": 8,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA ADA LOVELACE (DE) ,23",
+        "stAddress2": "Getafe",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.680742299999999, 43.5245761]
+      },
+      "properties": {
+        "id": 157,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA DE LA CONSTITUCIÓN ,220",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.688709999999999, 43.51795]
+      },
+      "properties": {
+        "id": 158,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA DE OVIEDO ,176",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.6657006, 43.5414149] },
+      "properties": {
+        "id": 159,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 2,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ALVAREZ GARAYA ,10",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.6616943, 43.5381119] },
+      "properties": {
+        "id": 160,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ALFREDO TRUAN ,1",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.847953800000001, 43.3579807]
+      },
+      "properties": {
+        "id": 161,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PLAZA SAN MIGUEL ,1",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.6488733, 43.53278539999999]
+      },
+      "properties": {
+        "id": 162,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE AVELINO GONZÁLEZ MALLADA ,27",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.6287064, 43.52372159999999]
+      },
+      "properties": {
+        "id": 163,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 2,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE PEDRO PUIG ADAM ,S/N",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.668297099999999, 43.5303145]
+      },
+      "properties": {
+        "id": 164,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE JUAN ALVARGONZÁLEZ ,41",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.6463166, 43.5375475] },
+      "properties": {
+        "id": 165,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA TORCUATO FERNÁNDEZ MIRANDA ,2",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.6614944, 43.5300277] },
+      "properties": {
+        "id": 166,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA DEL LLANO ,19",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.697178699999999, 43.5407666]
+      },
+      "properties": {
+        "id": 167,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ORIENTAL ,11",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.670617200000001, 43.5333207]
+      },
+      "properties": {
+        "id": 168,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE CARLOS MARX ,1",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.6362383, 43.5111614] },
+      "properties": {
+        "id": 169,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 2,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA CEARES A CASTIELLO ,118",
+        "stAddress2": "Gijón",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.0398989, 39.1353502] },
+      "properties": {
+        "id": 170,
+        "stationName": "TESLA MOTORS NETHERLANDS BV",
+        "totalDocks": 8,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AUTOVIA A-31 ,KM 52",
+        "stAddress2": "Gineta (La)",
+        "city": "ALBACETE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.8174009, 41.9982889] },
+      "properties": {
+        "id": 171,
+        "stationName": "TESLA MOTORS NETHERLANDS BV",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE FRANCESC FERRER GIRONES ,16",
+        "stAddress2": "Girona",
+        "city": "GIRONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.8222761, 41.98803040000001]
+      },
+      "properties": {
+        "id": 172,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRER BERENGUER CARNICER ,2",
+        "stAddress2": "Girona",
+        "city": "GIRONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.076558899999999, 43.384236]
+      },
+      "properties": {
+        "id": 174,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA DE LOS DEPORTES ,1",
+        "stAddress2": "Grado",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.8539718, 43.3619564] },
+      "properties": {
+        "id": 175,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ASTURIAS ,1",
+        "stAddress2": "Grado",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.5985571, 37.1773363] },
+      "properties": {
+        "id": 176,
+        "stationName": "MERCADOS CENTRALES DE ABASTECIMIENTO SA",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRETERA N-432 ,436",
+        "stAddress2": "Granada",
+        "city": "GRANADA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1826846, 41.3853326] },
+      "properties": {
+        "id": 177,
+        "stationName": "ESTABANELL Y PAHISA MERCATOR, S.A.",
+        "totalDocks": 2,
+        "distributor": "ESTABANELL Y PAHISA ENERGIA, S.A.",
+        "stAddress1": "CALLE REC ,28",
+        "stAddress2": "Granollers",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1826846, 41.3853326] },
+      "properties": {
+        "id": 178,
+        "stationName": "ESTABANELL Y PAHISA MERCATOR, S.A.",
+        "totalDocks": 2,
+        "distributor": "ESTABANELL Y PAHISA ENERGIA, S.A.",
+        "stAddress1": "CALLE REC ,28",
+        "stAddress2": "Granollers",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.0803484, 40.6629002] },
+      "properties": {
+        "id": 179,
+        "stationName": "ANTIS GUADARRAMA S.L",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE JARA ,12",
+        "stAddress2": "Guadarrama",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.72323, 38.14333999999999]
+      },
+      "properties": {
+        "id": 180,
+        "stationName": "TESLA SPAIN SLU",
+        "totalDocks": 10,
+        "distributor": "Endesa Distribución",
+        "stAddress1": "AVENIDA LINARES ,28",
+        "stAddress2": "Guarromán",
+        "city": "JAÉN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6890826, 41.7510331] },
+      "properties": {
+        "id": 181,
+        "stationName": "SFERAONE SOLUTIONS Y SERVICES SL",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA A-1 ,168",
+        "stAddress2": "Gumiel de Izán",
+        "city": "BURGOS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.7930831, 43.3609844] },
+      "properties": {
+        "id": 183,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE MINASOROETA KALEA ,S/N",
+        "stAddress2": "Hondarribia",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.8148484, 43.3418071] },
+      "properties": {
+        "id": 184,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE JAITZUBIA AUZOA ,154",
+        "stAddress2": "Hondarribia",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1491051, 41.3925711] },
+      "properties": {
+        "id": 185,
+        "stationName": "REGESA APARCAMENTS I SERVEIS, S.A.",
+        "totalDocks": 2,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE FRANCESC MACIA I LLUS ,S/N",
+        "stAddress2": "Hospitalet de Llobregat (L')",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1226169, 41.3520226] },
+      "properties": {
+        "id": 186,
+        "stationName": "DRIVETHECITY, S.L.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE CIENCIES ,77",
+        "stAddress2": "Hospitalet de Llobregat (L')",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.9124273, 37.2703087] },
+      "properties": {
+        "id": 187,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 3,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CARRETERA SEVILLA-TARTESSOS ,27",
+        "stAddress2": "Huelva",
+        "city": "HUELVA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.8170914, 43.3337389] },
+      "properties": {
+        "id": 188,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE POTZUETAKOGAINA KALEA ,19 , BAJO , 3",
+        "stAddress2": "Irun",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.7407455, 42.85793700000001]
+      },
+      "properties": {
+        "id": 189,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AUTOPISTA A15 - ZUASTI ,102",
+        "stAddress2": "Iza",
+        "city": "NAVARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.3938967, 39.4691721] },
+      "properties": {
+        "id": 190,
+        "stationName": "SFERAONE SOLUTIONS Y SERVICES SL",
+        "totalDocks": 1,
+        "distributor": "ELECTRICA DEL OESTE DISTRIBUCION, S.L.U.",
+        "stAddress1": "CARRETERA NACIONAL 630 ,449",
+        "stAddress2": "Jarilla",
+        "city": "CÁCERES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.2730492, 43.4864668] },
+      "properties": {
+        "id": 191,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "POLIGONO POLIGONO EL SOTO ,S/N",
+        "stAddress2": "Laviana",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7781205, 40.30818] },
+      "properties": {
+        "id": 192,
+        "stationName": "ESTACIÓN DE SERVICIO MAVEL, S.L.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ARROYO DEL SOTO ,2",
+        "stAddress2": "Leganés",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.3333602, 43.056124] },
+      "properties": {
+        "id": 193,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE LANAREN HIRIBIDEA ,5",
+        "stAddress2": "Legazpi",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.9879699, 43.3258037] },
+      "properties": {
+        "id": 194,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE METRO LEIOA ,S/N",
+        "stAddress2": "Leioa",
+        "city": "BIZKAIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.810572899999999, 43.4204595]
+      },
+      "properties": {
+        "id": 195,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 2,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "POLIGONO POLIGONO SILVOTA CALLE PEÑA SANTA ,S/N",
+        "stAddress2": "Llanera",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.8157982, 43.4285331] },
+      "properties": {
+        "id": 196,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "POLIGONO POLIGONO SILVOTA CALLE PEÑA REDONDA ,S/N",
+        "stAddress2": "Llanera",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.6712737, 43.530833] },
+      "properties": {
+        "id": 197,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE SEVERO OCHOA ,13",
+        "stAddress2": "Llanera",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.825843, 43.421738] },
+      "properties": {
+        "id": 198,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "POLIGONO PARQUE TECNOLOGICO ,PARCELA 43",
+        "stAddress2": "Llanera",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.8508483, 43.4396026] },
+      "properties": {
+        "id": 199,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA PRUDENCIO GONZALEZ ,2",
+        "stAddress2": "Llanera",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [0.6050327, 41.6653398] },
+      "properties": {
+        "id": 200,
+        "stationName": "TESLA MOTORS NETHERLANDS BV",
+        "totalDocks": 6,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE DE LA VARIANT ,S/N",
+        "stAddress2": "Lleida",
+        "city": "LLEIDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.8308517, 41.713533] },
+      "properties": {
+        "id": 201,
+        "stationName": "CAN TAULINA SOCIEDAD LIMITADA",
+        "totalDocks": 2,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA ALEGRIES ,89",
+        "stAddress2": "Lloret de Mar",
+        "city": "GIRONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.4695715, 42.4614755] },
+      "properties": {
+        "id": 202,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 3,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA DE BURGOS ,49",
+        "stAddress2": "Logroño",
+        "city": "RIOJA, LA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.685656, 40.4574007] },
+      "properties": {
+        "id": 203,
+        "stationName": "NEW BROADBAND NETWORK SOLUTIONS, S.L. (N2S)",
+        "totalDocks": 3,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE PADRE DAMIÁN",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6948741, 40.454012] },
+      "properties": {
+        "id": 204,
+        "stationName": "NEW BROADBAND NETWORK SOLUTIONS, S.L. (N2S)",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE ORENSE",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.616083, 40.4623132] },
+      "properties": {
+        "id": 205,
+        "stationName": "NEW BROADBAND NETWORK SOLUTIONS, S.L. (N2S)",
+        "totalDocks": 4,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "AVENIDA CAPITAL DE ESPAÑA",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6882729, 40.4676615] },
+      "properties": {
+        "id": 206,
+        "stationName": "NEW BROADBAND NETWORK SOLUTIONS, S.L. (N2S)",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PASEO CASTELLANA ,220",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7139373, 40.3967839] },
+      "properties": {
+        "id": 207,
+        "stationName": "COMERCIAL SAMA, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ANTONIO LOPEZ ,8",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6877991, 40.4070464] },
+      "properties": {
+        "id": 208,
+        "stationName": "RIVELSA, S.L.U.",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "PASEO INFANTA ISABEL ,15",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7088242, 40.4232533] },
+      "properties": {
+        "id": 209,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "PLAZA MOSTENSES ,S/N",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7045561, 40.4320993] },
+      "properties": {
+        "id": 210,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE SAN BERNARDO ,122",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.688338, 40.4358203] },
+      "properties": {
+        "id": 211,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "PASEO CASTELLANA ,52",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6712368, 40.4247479] },
+      "properties": {
+        "id": 212,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE GOYA ,123",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6888691, 40.4579287] },
+      "properties": {
+        "id": 213,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PASEO CASTELLANA ,160",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6952207, 40.39015] },
+      "properties": {
+        "id": 214,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 5,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE MAESTRO ARBOS ,2",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.638613699999999, 40.3723785]
+      },
+      "properties": {
+        "id": 215,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CARRETERA CTRA. M-602, KM.13 ,13",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6799531, 40.4382245] },
+      "properties": {
+        "id": 216,
+        "stationName": "KISHOA S L",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE CASTELLO ,128",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.691275, 40.4250471] },
+      "properties": {
+        "id": 217,
+        "stationName": "EMPARK APARCAMIENTOS Y SERVICIOS SA",
+        "totalDocks": 15,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "PLAZA COLÓN ,1",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.66835, 40.47845] },
+      "properties": {
+        "id": 218,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE ARTURO SORIA ,320",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6906392, 40.4453677] },
+      "properties": {
+        "id": 219,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PASEO CASTELLANA ,106",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.664736, 40.4017303] },
+      "properties": {
+        "id": 220,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ALFONSO XIII ,2",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.720578, 40.4074031] },
+      "properties": {
+        "id": 221,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE CHULAPOS ,1",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.5842352, 40.4521924] },
+      "properties": {
+        "id": 222,
+        "stationName": "ELECTRIC CHARGE SPAIN",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE MEDINA DE POMAR ,22",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6651478, 40.4876711] },
+      "properties": {
+        "id": 223,
+        "stationName": "ESTACION DE SERVICIO DE SAN ANTONIO S.L.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA MANOTERAS ,34",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6887681, 40.4251949] },
+      "properties": {
+        "id": 224,
+        "stationName": "EMPRESA MUNICIPAL DE TRANSPORTES DE MADRID SA",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE GOYA ,2",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7030893, 40.4142792] },
+      "properties": {
+        "id": 225,
+        "stationName": "EMPRESA MUNICIPAL DE TRANSPORTES DE MADRID SA",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PLAZA JACINTO BENAVENTE ,2",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.6802421, 40.43049999999999]
+      },
+      "properties": {
+        "id": 226,
+        "stationName": "EMPRESA MUNICIPAL DE TRANSPORTES DE MADRID SA",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PLAZA MARQUES DE SALAMANCA ,6",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.677981399999999, 40.4691198]
+      },
+      "properties": {
+        "id": 227,
+        "stationName": "EMPRESA MUNICIPAL DE TRANSPORTES DE MADRID SA",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PLAZA DUQUE DE PASTRANA ,5",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.631004899999999, 40.4721151]
+      },
+      "properties": {
+        "id": 228,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE VIA DE LOS POBLADOS ,17",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6238407, 40.4559828] },
+      "properties": {
+        "id": 229,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 3,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "AVENIDA MACHUPICHU ,5",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6667217, 40.4881246] },
+      "properties": {
+        "id": 230,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA MANOTERAS ,28",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6519326, 40.4461616] },
+      "properties": {
+        "id": 231,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE AGASTIA ,31",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.61212, 40.4198] },
+      "properties": {
+        "id": 232,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE RAVENA ,22",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6570176, 40.4477452] },
+      "properties": {
+        "id": 233,
+        "stationName": "ENGIE ESPAÑA SL",
+        "totalDocks": 1,
+        "distributor": "Gas natural Fenosa",
+        "stAddress1": "CALLE TORRELAGUNA ,79",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.692601299999999, 40.425903]
+      },
+      "properties": {
+        "id": 234,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE GENOVA ,24",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6921287, 40.4159796] },
+      "properties": {
+        "id": 235,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "PLAZA LEALTAD ,3",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6897885, 40.4325862] },
+      "properties": {
+        "id": 236,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "PASEO CASTELLANA ,33",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6752778, 40.4000474] },
+      "properties": {
+        "id": 237,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE CERRO DE LA PLATA ,4",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.681083, 40.424886] },
+      "properties": {
+        "id": 238,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE GOYA ,36",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7006079, 40.4054093] },
+      "properties": {
+        "id": 239,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "RONDA VALENCIA ,3",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6555084, 40.4540381] },
+      "properties": {
+        "id": 240,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE BUESO PINEDA ,29",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6808581, 40.4344537] },
+      "properties": {
+        "id": 241,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE CASTELLO ,103",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6990938, 40.4305162] },
+      "properties": {
+        "id": 242,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE MANUEL SILVELA ,16",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7004623, 40.4380285] },
+      "properties": {
+        "id": 243,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE SANTA ENGRACIA ,115",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.6698031, 40.4672782] },
+      "properties": {
+        "id": 244,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE CARDENAL MARCELO SPINOLA ,10",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.687591499999999, 40.4746087]
+      },
+      "properties": {
+        "id": 245,
+        "stationName": "GESTIÓN INTELIGENTE DE CARGAS, S.L.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "PASEO CASTELLANA ,257",
+        "stAddress2": "Madrid",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.8808206, 40.415932] },
+      "properties": {
+        "id": 246,
+        "stationName": "GESDEGAS, S.L.",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CARRETERA M-516 ,7,3",
+        "stAddress2": "Majadahonda",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.8739594, 40.4332527] },
+      "properties": {
+        "id": 247,
+        "stationName": "ESTACION DE SERVICIO DE SAN ANTONIO S.L.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA M-516 ,0,5",
+        "stAddress2": "Majadahonda",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.7083546, 36.7657542] },
+      "properties": {
+        "id": 248,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA PIZARRA-ÁLORA ,S/N",
+        "stAddress2": "Majadahonda",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.4839407, 36.7184685] },
+      "properties": {
+        "id": 249,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA JENOFONTE ,S/N",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.4496465, 36.7203129] },
+      "properties": {
+        "id": 250,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA SANTA ROSA DE LIMA ,20",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.4393731, 36.6980168] },
+      "properties": {
+        "id": 251,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE CONCEJAL MUÑOZ CERVAN ,11-17",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.3607829, 36.7210335] },
+      "properties": {
+        "id": 252,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE ALONSO CARRILLO DE ALBORNOZ ,1",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.4783262, 36.6570867] },
+      "properties": {
+        "id": 253,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE ALFONSO PONCE DE LEON ,1",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.4282994, 36.7175017] },
+      "properties": {
+        "id": 254,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA ANDALUCIA ,6",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.4098959, 36.7197693] },
+      "properties": {
+        "id": 255,
+        "stationName": "SOCIEDAD MUNICIPAL DE APARCAMIENTOS Y SERVICIOS SA",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE CERVANTES ,S/N",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.4210888, 36.7183809] },
+      "properties": {
+        "id": 256,
+        "stationName": "SOCIEDAD MUNICIPAL DE APARCAMIENTOS Y SERVICIOS SA",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA",
+        "stAddress1": "PLAZA LA MARINA ,1",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.432593199999999, 36.7178162]
+      },
+      "properties": {
+        "id": 257,
+        "stationName": "SOCIEDAD MUNICIPAL DE APARCAMIENTOS Y SERVICIOS SA",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE COMPOSITOR LEHMBERG RUIZ ,S/N",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.4162099, 36.7225072] },
+      "properties": {
+        "id": 258,
+        "stationName": "SOCIEDAD MUNICIPAL DE APARCAMIENTOS Y SERVICIOS SA",
+        "totalDocks": 3,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA JESÚS EL RICO ,2-3",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.449186, 36.7206542] },
+      "properties": {
+        "id": 259,
+        "stationName": "SOCIEDAD MUNICIPAL DE APARCAMIENTOS Y SERVICIOS SA",
+        "totalDocks": 2,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA SANTA ROSA DE LIMA ,S/N",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.4245348, 36.720401] },
+      "properties": {
+        "id": 260,
+        "stationName": "SOCIEDAD MUNICIPAL DE APARCAMIENTOS Y SERVICIOS SA",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE CAMAS ,S/N",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.4377545, 36.7169494] },
+      "properties": {
+        "id": 261,
+        "stationName": "SOCIEDAD MUNICIPAL DE APARCAMIENTOS Y SERVICIOS SA",
+        "totalDocks": 5,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "AVENIDA ANDALUCIA ,S/N",
+        "stAddress2": "Málaga",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.2103197, 39.5778451] },
+      "properties": {
+        "id": 262,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "VÍA PALMA ,87",
+        "stAddress2": "Manacor",
+        "city": "BALEARS, ILLES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.8485331, 41.7239331] },
+      "properties": {
+        "id": 263,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 3,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE AGUSTI COLL ,18",
+        "stAddress2": "Manresa",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.7037902, 40.4167754] },
+      "properties": {
+        "id": 264,
+        "stationName": "TESLA SPAIN SLU",
+        "totalDocks": 10,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CARRETERA N-IV (MADRID-CADIZ) ,K-173",
+        "stAddress2": "Manzanares",
+        "city": "CIUDAD REAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.8835498, 36.5100739] },
+      "properties": {
+        "id": 265,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA MONSEÑOR RODRIGO BOCANEGRA ,67",
+        "stAddress2": "Marbella",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.951851599999999, 36.4881337]
+      },
+      "properties": {
+        "id": 266,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE JOSE SARAMAGO ,10",
+        "stAddress2": "Marbella",
+        "city": "MÁLAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.7207293, 39.6251969] },
+      "properties": {
+        "id": 267,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 2,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE SIURELLS ,1",
+        "stAddress2": "Marratxí",
+        "city": "BALEARS, ILLES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.1716022, 41.3853889] },
+      "properties": {
+        "id": 268,
+        "stationName": "SABA APARCAMIENTOS S.A.",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "PLAZA SANTA ANNA ,S/N",
+        "stAddress2": "Mataró",
+        "city": "BARCELONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.566769, 42.9379377] },
+      "properties": {
+        "id": 269,
+        "stationName": "ADURIZ ENERGIA SL",
+        "totalDocks": 1,
+        "distributor": "ADURIZ DISTRIBUCION SLU",
+        "stAddress1": "CALLE MERINDAD DE MONTIJA EN MEDINA DE POMAR ,11",
+        "stAddress2": "Medina de Pomar",
+        "city": "BURGOS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.4038353, 41.1904984] },
+      "properties": {
+        "id": 270,
+        "stationName": "GAMMA SOLUTIONS SL",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "AUTOVIA A-2 ,154",
+        "stAddress2": "Medinaceli",
+        "city": "SORIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.741878500000002, 42.4632882]
+      },
+      "properties": {
+        "id": 271,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "UNION FENOSA DISTRIBUCION, S.A.",
+        "stAddress1": "CALLE ?ARMENTEIRA-SAN MARTIÑO ,S/N",
+        "stAddress2": "Meis",
+        "city": "PONTEVEDRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.9557863, 38.8792537] },
+      "properties": {
+        "id": 272,
+        "stationName": "TESLA SPAIN SLU",
+        "totalDocks": 10,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE BILBAO ,1",
+        "stAddress2": "Mérida",
+        "city": "BADAJOZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.7771861, 43.2412826] },
+      "properties": {
+        "id": 273,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 3,
+        "distributor": "E.ON DISTRIBUCION, S.L.",
+        "stAddress1": "CALLE GONZALO GUTIERREZ QUIROS ,S/N",
+        "stAddress2": "Mieres",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.7771861, 43.2412826] },
+      "properties": {
+        "id": 274,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 2,
+        "distributor": "E.ON DISTRIBUCION, S.L.",
+        "stAddress1": "CALLE GONZALO GUTIERREZ QUIROS ,S/N",
+        "stAddress2": "Mieres",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.5997146, 40.653791] },
+      "properties": {
+        "id": 275,
+        "stationName": "SFERAONE SOLUTIONS Y SERVICES SL",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AUTOVIA A1 ,53",
+        "stAddress2": "Milagros",
+        "city": "BURGOS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.6981208, 42.3598566] },
+      "properties": {
+        "id": 276,
+        "stationName": "HIDROELECTRICA DEL VALIRA SL",
+        "totalDocks": 2,
+        "distributor": "PRODUCTORA ELECTRICA URGELENSE, S.A. (PEUSA)",
+        "stAddress1": "CALLE CAMÍ DE MONTELLÀ CRUCE CON LA CALLE DEL SEGRE ,S/N",
+        "stAddress2": "Montellà i Martinet",
+        "city": "LLEIDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.8954618, 40.34086550000001]
+      },
+      "properties": {
+        "id": 278,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA M856 ,ENLACE N-V Y N-501",
+        "stAddress2": "Móstoles",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.8710185, 40.3138868] },
+      "properties": {
+        "id": 279,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA CÁMARA DE LA INDUSTRIA ,7-1",
+        "stAddress2": "Móstoles",
+        "city": "MADRID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.1490861, 38.0383476] },
+      "properties": {
+        "id": 280,
+        "stationName": "TESLA MOTORS NETHERLANDS BV",
+        "totalDocks": 6,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AUTOVIA A-7 ,760",
+        "stAddress2": "Murcia",
+        "city": "MURCIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.161073, 38.057598] },
+      "properties": {
+        "id": 281,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA CARRETERA ESPINARDO ,S/N",
+        "stAddress2": "Murcia",
+        "city": "MURCIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.3626777, 39.5140332] },
+      "properties": {
+        "id": 282,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA BARCELONA ,9,800",
+        "stAddress2": "Museros",
+        "city": "VALENCIA/VALÈNCIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.3625029, 43.3038645] },
+      "properties": {
+        "id": 283,
+        "stationName": "FENIE ENERGIA SA",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE LARANGA AUZOA , 6-PROX 1, BAJO",
+        "stAddress2": "Mutriku",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.2236667, 43.0756299] },
+      "properties": {
+        "id": 284,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "BARRI MAGDALENA ,1",
+        "stAddress2": "Mutriku",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-5.3996002, 39.8916435] },
+      "properties": {
+        "id": 285,
+        "stationName": "SFERAONE SOLUTIONS Y SERVICES SL",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA A-5 ,182",
+        "stAddress2": "Navalmoral de la Mata",
+        "city": "CÁCERES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.706842399999999, 43.3935233]
+      },
+      "properties": {
+        "id": 286,
+        "stationName": "EDP COMERCIALIZADORA, S.A.",
+        "totalDocks": 1,
+        "distributor": "HIDROCANTABRICO DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE REGINO ESCALERA ,1",
+        "stAddress2": "Noreña",
+        "city": "ASTURIAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.5757985, 38.8306176] },
+      "properties": {
+        "id": 287,
+        "stationName": "FENIE ENERGIA SA",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA DEL TEXTEL ,67",
+        "stAddress2": "Ontinyent",
+        "city": "VALENCIA/VALÈNCIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.4100621, 43.028529] },
+      "properties": {
+        "id": 288,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE DE ARANTZAZUKO AMA ,25",
+        "stAddress2": "Oñati",
+        "city": "GIPUZKOA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.5497121, 42.02667719999999]
+      },
+      "properties": {
+        "id": 289,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA DE ASTURIAS ,38",
+        "stAddress2": "Palencia",
+        "city": "PALENCIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.6985083, 39.5507684] },
+      "properties": {
+        "id": 290,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CAMINO CAN PASTILLA ,1",
+        "stAddress2": "Palma",
+        "city": "BALEARS, ILLES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.7356328, 39.3587759] },
+      "properties": {
+        "id": 291,
+        "stationName": "SAMPOL INGENIERIA Y OBRAS",
+        "totalDocks": 1,
+        "stAddress1": "CALLE MIKEL FARADAY ,1",
+        "stAddress2": "Palma",
+        "city": "BALEARS, ILLES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.7356328, 39.3587759] },
+      "properties": {
+        "id": 292,
+        "stationName": "Endesa Energía S.A.U.",
+        "totalDocks": 1,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CAMINO FONDO ,S/N",
+        "stAddress2": "Palma",
+        "city": "BALEARS, ILLES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-15.4166443, 28.1009467] },
+      "properties": {
+        "id": 293,
+        "stationName": "IBERDROLA CLIENTES SOCIEDAD ANONIMA",
+        "totalDocks": 4,
+        "distributor": "ENDESA DISTRIBUCION ELECTRICA, S.L.",
+        "stAddress1": "CALLE JUAN DE QUESADA ,9",
+        "stAddress2": "Palmas de Gran Canaria (Las)",
+        "city": "PALMAS, LAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6364903, 42.80654029999999]
+      },
+      "properties": {
+        "id": 294,
+        "stationName": "Acciona Eficiencia Energética, S.L.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE BLAS DE LA SERNA ,6",
+        "stAddress2": "Pamplona/Iruña",
+        "city": "NAVARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.6434186, 42.81438] },
+      "properties": {
+        "id": 295,
+        "stationName": "Acciona Eficiencia Energética, S.L.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA SAN IGNACIO / SAN IGNAZIO ETORBIDEA ,10",
+        "stAddress2": "Pamplona/Iruña",
+        "city": "NAVARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.6638476, 42.8114463] },
+      "properties": {
+        "id": 296,
+        "stationName": "IBERDROLA SERVICIOS ENERGÉTICOS, S.A.U.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ARCADIO MARÍA LARRAONA ,1",
+        "stAddress2": "Pamplona/Iruña",
+        "city": "NAVARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.6509265, 42.8049391] },
+      "properties": {
+        "id": 297,
+        "stationName": "IBERDROLA SERVICIOS ENERGÉTICOS, S.A.U.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CALLE ESQUIROZ ,10",
+        "stAddress2": "Pamplona/Iruña",
+        "city": "NAVARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.643239, 42.815244] },
+      "properties": {
+        "id": 298,
+        "stationName": "IBERDROLA SERVICIOS ENERGÉTICOS, S.A.U.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA SAN IGNACIO ,10BIS BAJO",
+        "stAddress2": "Pamplona/Iruña",
+        "city": "NAVARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.6268214, 42.8034679] },
+      "properties": {
+        "id": 299,
+        "stationName": "IBERDROLA SERVICIOS ENERGÉTICOS, S.A.U.",
+        "totalDocks": 1,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "AVENIDA JUAN PABLO II ,4 BAJO 2",
+        "stAddress2": "Pamplona/Iruña",
+        "city": "NAVARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.0224088, 42.7242505] },
+      "properties": {
+        "id": 300,
+        "stationName": "IBIL Gestor de Carga del Vehículo Eléctrico, S.A.",
+        "totalDocks": 2,
+        "distributor": "IBERDROLA DISTRIBUCION ELECTRICA, S.A.",
+        "stAddress1": "CARRETERA SAN SEBASTIAN ,1",
+        "stAddress2": "Pamplona/Iruña",
+        "city": "NAVARRA"
+      }
+    }
+  ]
+}

@@ -13,14 +13,14 @@ const googleMapsClient = require("@google/maps").createClient({
 var url =
   "https://sedeaplicaciones.minetur.gob.es/Greco/DatosRISP.aspx?fichero=exportarexcel";
 
-// Time for setInterval
-var dayInMilliseconds = 1000 * 60 * 60 * 24;
-
 // Options of the library will download the dataBase of the Gob
 var options = {
   directory: "./public/excels/",
   filename: "epoints.xlsx"
 };
+
+// Time for setInterval
+var dayInMilliseconds = 1000 * 60 * 60 * 24;
 
 // SetInterval that will download once a day the dataBase of the Gob
 
@@ -48,7 +48,7 @@ setInterval(() => {
   });
 
   // Iterate each point of charge get its directions and remplace by the location calling the Google Maps API
-
+  
   for (let i in resultExcelToJson) {
     for (let j in resultExcelToJson[i]) {
       googleMapsClient
@@ -60,7 +60,7 @@ setInterval(() => {
         .asPromise()
         .then(response => {
           var location = response.json.results[0].geometry.location;
-          resultExcelToJson[i][j].Direccion = location;
+          resultExcelToJson[i][j].coordenadas = location;
         })
         .catch(err => {
           console.log(err);
@@ -71,13 +71,58 @@ setInterval(() => {
   // Once it makes all the changes save the new Json file into the folder
 
   setTimeout(() => {
-    fs.writeFile("./epoints.json", JSON.stringify(resultExcelToJson), err => {
+    fs.writeFile("./epoints.geojson", JSON.stringify(convertToGeoJSON(resultExcelToJson)), err => {
       if (!err) {
         console.log("done");
       }
     });
   }, 6000);
 }, dayInMilliseconds);
+
+
+
+function convertToGeoJSON(json) {
+
+  var count = 1;
+
+  var geojson = {
+    type: "FeatureCollection",
+    features: [],
+  };
+  
+  for (i = 0; i < json.Hoja1.length; i++) {
+
+    if (json.Hoja1[i].hasOwnProperty('coordenadas')) {
+        geojson.features.push({
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [json.Hoja1[i].coordenadas.lng, json.Hoja1[i].coordenadas.lat]
+        },
+        "properties": {
+          "id": count,
+          "stationName": json.Hoja1[i].RazonSocial,
+          "totalDocks": json.Hoja1[i].PuntosToma,
+          "distributor": json.Hoja1[i].Distribuidora,
+          "stAddress1": json.Hoja1[i].Direccion,
+          "stAddress2": json.Hoja1[i].Municipio,
+          "city": json.Hoja1[i].Provincia,
+        }
+      });
+    }
+
+    count++;
+
+    }
+   
+  
+
+
+
+  return geojson;
+
+
+}
 
 /* GET home page */
 
