@@ -24,3 +24,9 @@ a {
   border-radius: 50%;
   cursor: pointer;
 }
+
+.nearestButton {
+  display: absolute;
+  z-index: 10;
+  color: white;
+}

@@ -9,7 +9,18 @@ var map = new mapboxgl.Map({
 });
 
 map.on("load", function() {
-  var url = "/api/epoints.geojson";
+  
+  // Add geolocate control to the map.
+  map.addControl(
+    new mapboxgl.GeolocateControl({
+      positionOptions: {
+        enableHighAccuracy: true
+      },
+      trackUserLocation: true
+    })
+  );
+
+  var url = "/api/epoints2.geojson";
   // Add a new source from our GeoJSON data and set the
   // 'cluster' option to true. GL-JS will add the point_count property to your source data.
   map.addSource("epoints", {
@@ -21,6 +32,8 @@ map.on("load", function() {
     clusterMaxZoom: 14, // Max zoom to cluster points on
     clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
   });
+
+  console.log(map)
 
   map.addLayer({
     id: "clusters",
@@ -36,13 +49,12 @@ map.on("load", function() {
       "circle-color": [
         "step",
         ["get", "point_count"],
-        "#51bbd6",
+        "#2fefef",
         20,
-        "#f1f075",
+        "#2fefef",
         40,
-        "#f28cb1"
-      ],
-      "circle-radius": ["step", ["get", "point_count"], 20, 20, 30, 40, 40]
+       "#2fefef" ],
+      "circle-radius": ["step", ["get", "point_count"], 15, 20, 15, 40, 15]
     }
   });
 
@@ -91,9 +103,10 @@ map.on("load", function() {
   //     }
   // });
 
+  
+
   // inspect a cluster on click
   map.on("click", "clusters", function(e) {
-
     var features = map.queryRenderedFeatures(e.point, { layers: ["clusters"] });
     var clusterId = features[0].properties.cluster_id;
     map
@@ -108,7 +121,7 @@ map.on("load", function() {
       });
   });
 
-  map.on('click', 'epoint', function (e) {
+  map.on("click", "epoint", function(e) {
     var coordinates = e.features[0].geometry.coordinates.slice();
     var description = e.features[0].properties.totalDocks;
 
@@ -116,14 +129,14 @@ map.on("load", function() {
     // copies of the feature are visible, the popup appears
     // over the copy being pointed to.
     while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
     }
 
     new mapboxgl.Popup()
-        .setLngLat(coordinates)
-        .setHTML(`Number of docks in the station: ${description}`)
-        .addTo(map);
-});
+      .setLngLat(coordinates)
+      .setHTML(`Number of docks in the station: ${description}`)
+      .addTo(map);
+  });
 
   map.on("mouseenter", "clusters", function() {
     map.getCanvas().style.cursor = "pointer";
